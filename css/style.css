@@ -8,10 +8,11 @@
 }
 
 nav{
-    height: 32px;
-    margin: 10px;
+    height: 35px;
+    margin: 10px 5px;
     background-color: rgb(34, 34, 34);
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     border: 5px rgb(34, 34, 34) solid;
@@ -24,7 +25,7 @@ a{
     color: white;
     text-decoration: none;
     font-size: 10px;
-    padding: 17px;
+    padding: 8px;
 }
 
 main h2{
