@@ -4,6 +4,7 @@
 
 *{
     box-sizing: border-box;
+    zoom: 104.5%;
     
 }
 
@@ -43,7 +44,7 @@ main h2{
 
 .card-container img {
     display: flex;
-    float:right;
+    float: right;
     width: 60px;
     height: 60px;
     border-radius: 50%;
