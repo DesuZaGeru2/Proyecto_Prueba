@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    
+}
+
+nav{
+    height: 32px;
+    margin: 10px;
+    background-color: rgb(34, 34, 34);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px rgb(34, 34, 34) solid;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 17px;
+}
+
+main h2{
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 900;
+    font-size: 27px;
+}
+
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 15px;
+}
+
+.card-container img {
+    display: flex;
+    float:right;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.card{
+    background-color: rgba(0, 0, 0, 0.788);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 240px;
+    margin: 10px;
+    box-shadow: 0 0 7px black;
+}
+
+.card h3{
+    text-decoration: overline white;
+}
+

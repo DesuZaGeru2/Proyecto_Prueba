@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Ramiro Alvares",
+        "edad": "33",
+        "altura": "1.75",
+        "nacionalidad" : "argentino",
+        "bandera" : "fi-ar",
+        "foto" : "IMGar"
+    },
+    {
+        "nombre": "Masahiro Nakamura",
+        "edad": "30",
+        "altura": "1.70",
+        "nacionalidad" : "japonés",
+        "bandera" : "fi-jp",
+        "foto" : "IMGjp"
+    },
+    {
+        "nombre": "Andrew Evans",
+        "edad": "27",
+        "altura": "1.93",
+        "nacionalidad" : "inglés",
+        "bandera" : "fi-gb",
+        "foto" : "IMGgb"
+    },
+    {
+        "nombre": "Hassan Adel",
+        "edad": "32",
+        "altura": "1.83",
+        "nacionalidad" : "egipcio",
+        "bandera" : "fi-eg",
+        "foto" : "IMGeg"
+    },
+    {
+        "nombre": "Eric Pavez",
+        "edad": "38",
+        "altura": "1.71",
+        "nacionalidad" : "chileno",
+        "bandera" : "fi-cl",
+        "foto" : "IMGcl"
+    },
+    {
+        "nombre": "Sh Siang",
+        "edad": "32",
+        "altura": "1.68",
+        "nacionalidad" : "malayo",
+        "bandera" : "fi-my",
+        "foto" : "IMGmy"
+    },
+    {
+        "nombre": "Douwe Janssens",
+        "edad": "26",
+        "altura": "1.90",
+        "nacionalidad" : "neerlandés",
+        "bandera" : "fi-nl",
+        "foto" : "IMGnl"
+    },
+    {
+        "nombre": "Enrique Ojeda",
+        "edad": "29",
+        "altura": "1.81",
+        "nacionalidad" : "español",
+        "bandera" : "fi-es",
+        "foto" : "IMGes"
+    }
+    
+]
